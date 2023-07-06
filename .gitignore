@@ -1,8 +1,8 @@
-./script.py
-./python_solr.py
-./venv/
+script.py
+python_solr.py
+venv/
 .DS_Store
 .idea/
-./Downloads/
+Downloads/
 __pycache__/
 instance/
